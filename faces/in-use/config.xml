@@ -1,0 +1,44 @@
+<record>
+	<!-- resource manager options -->
+
+	<!-- dont preload anything in this folder -->
+	<boolean id="preload" value="false"/>
+
+	<!-- turn off auto mapping -->
+	<boolean id="amap" value="false"/>
+
+	<!-- logo mappings -->
+	<!-- the following XML maps pictures inside this folder into other positions
+			 in the resource system, which allows this folder to be dropped into any
+			 place in the graphics folder and still have the game pick up the graphics
+			 files from the correct places
+	-->
+
+	<list id="maps">
+
+		
+		<record from='1915739846' to='graphics/pictures/person/1915739846/portrait'/>
+		<record from='1915728996' to='graphics/pictures/person/1915728996/portrait'/>
+		<record from='1915728522' to='graphics/pictures/person/1915728522/portrait'/>
+		<record from='1915712348' to='graphics/pictures/person/1915712348/portrait'/>
+		<record from='1915706697' to='graphics/pictures/person/1915706697/portrait'/>
+		<record from='1915702623' to='graphics/pictures/person/1915702623/portrait'/>
+		<record from='1915689948' to='graphics/pictures/person/1915689948/portrait'/>
+		<record from='1915685440' to='graphics/pictures/person/1915685440/portrait'/>
+		<record from='1915675987' to='graphics/pictures/person/1915675987/portrait'/>
+		<record from='1915675871' to='graphics/pictures/person/1915675871/portrait'/>
+		<record from='1915669597' to='graphics/pictures/person/1915669597/portrait'/>
+		<record from='1915661847' to='graphics/pictures/person/1915661847/portrait'/>
+		<record from='1915660421' to='graphics/pictures/person/1915660421/portrait'/>
+		<record from='1915635363' to='graphics/pictures/person/1915635363/portrait'/>
+		<record from='1915634361' to='graphics/pictures/person/1915634361/portrait'/>
+		<record from='1915538825' to='graphics/pictures/person/1915538825/portrait'/>
+		<record from='1915517475' to='graphics/pictures/person/1915517475/portrait'/>
+		<record from='1915491574' to='graphics/pictures/person/1915491574/portrait'/>
+		<record from='1915488532' to='graphics/pictures/person/1915488532/portrait'/>
+		<record from='1915487832' to='graphics/pictures/person/1915487832/portrait'/>
+		<record from='1915487070' to='graphics/pictures/person/1915487070/portrait'/>
+		<record from='1915479506' to='graphics/pictures/person/1915479506/portrait'/>
+		
+	</list>
+</record>
